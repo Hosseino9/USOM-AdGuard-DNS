@@ -4,8 +4,8 @@
 ! Source: Data is obtained from usom.gov.tr
 ! License: Not specified (Publicly available data).
 ! Expires: 7 days (Daily update recommended)
-! Last modified: 30 Sep 2026 22:05 UTC
-! Version: 2026.0930.2205
+! Last modified: 01 Oct 2026 05:20 UTC
+! Version: 2026.1001.0520
 ! Syntax: AdBlock
 ! Number of entries: 18
 !
@@ -18,7 +18,7 @@
 ||name="description"^
 ||content="SwaggerIU"^
 ||/>^
-||<title>T.C. Siber Güvenlik Başkanlığı</title>^
+||<title>USOM API</title>^
 ||<link rel="stylesheet" href="swagger-ui.css" />^
 ||</head>^
 ||<body>^
